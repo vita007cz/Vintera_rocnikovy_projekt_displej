@@ -8,6 +8,7 @@ Tento projekt je implementací FreeTouchDeck, jednoduchého a přizpůsobitelné
 3. [Použité technologie](#Použité-technologie)
 4. [Hardware](#Hardware)
 5. [Konfigurace](#Konfigurace)
+6. [Citace](#Citace)
 
 ## Úvod
 FreeTouchDeck je minimalistická a uživatelsky přívětivá alternativa k napr Stream decku. Uživatelské rozhraní je přizpůsobtelné, mohu nahrát vlastní obrázky ikonek a vlastní funkce tlačítek. 
@@ -35,3 +36,5 @@ Pro realizaci tohoto projektu budete potřebovat následující komponenty:
 - Po prvním spuštění se ESP32 přepne do režimu Access Point. Připojte se k síti s názvem `FreeTouchDeck` a otevřete adresu `192.168.4.1` v prohlížeči.
 - Nastavte připojení k domácí Wi-Fi síti a přizpůsobte tlačítka dle vašich potřeb.
 
+## Citace
+- WATTS, DustinWatts. A Bluetooth ESP32 TFT + Touch Macro Keypad). Online. Licence: MIT License. Dostupné z: https://www.instructables.com/A-Bluetooth-ESP32-TFT-Touch-Macro-Keypad/. [cit. 2025-01-06].
