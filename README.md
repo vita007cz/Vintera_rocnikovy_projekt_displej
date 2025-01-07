@@ -1,5 +1,7 @@
 # Vintera_rocnikovy_projekt_displej
 
+## STATUS: ROZPRACOVÁNO
+
 Tento projekt je implementací FreeTouchDeck, jednoduchého a přizpůsobitelného ovládacího panelu na bázi dotykového displeje. FreeTouchDeck umožňuje ovládání počítače, aplikací nebo chytrých zařízení prostřednictvím vlastního uživatelského rozhraní běžícím na ESP32. 
 
 ## VIDEO rozpracovaného projektu: https://youtu.be/yFMjkvpptjk
